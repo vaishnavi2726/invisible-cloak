@@ -1,4 +1,4 @@
-# 🧥 Invisible Cloak 🪄  
+# Invisible Cloak 🪄  
 
 Turn your ordinary webcam feed into magic! This project creates an **“invisibility cloak” effect** using Python & OpenCV by detecting a specific color and replacing it with the background.  
 
